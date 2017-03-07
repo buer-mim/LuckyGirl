@@ -1,0 +1,26 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "css/mui.min.css",
+      "css/init.css",
+      "css/lucky.css",
+      "js/mui.min.js",
+      "img/icons/lucky_btn1.png",
+      "img/icons/photo_wish.png",
+      "img/icons/lucky.png",
+      "img/icons/lucky_wish.png",
+      "img/jj.jpg",
+      "img/lucky_1.png",
+      "img/lucky_2.png",
+      "img/lucky_3.png",
+      "img/lucky_4.png",
+      "img/lucky_5.png",
+      "img/lucky_6.png",
+      "img/lucky_7.png",
+      "img/lucky_8.png"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}

@@ -1,0 +1,40 @@
+/*rest 样式重置*/
+body{font-family:"Microsoft YaHei";font-size:0.8rem;max-width: 640px;margin: 0 auto;}
+blockquote,body,button,caption,dd,div,dl,dt,fieldset,figure,form,h1,h2,h3,h4,h5,h6,hr,html,input,legend,li,menu,ol,p,pre,table,td,textarea,th,ul{margin:0;padding:0}
+address,caption,cite,code,em,h1,h2,h3,h4,h5,h6,pre,strong,table,td,th{font-size:1em;font-style:normal;font-weight:400}
+table{border-collapse:collapse;border-spacing:0}
+abbr,body,fieldset,html,iframe,img{border:0}
+address,cite,dfn,em,i,var{font-style:normal}
+[hidefocus],summary{outline:0}
+li{list-style:none}
+h1,h2,h3,h4,h5,h6,small{font-size:100%}
+textarea{overflow:auto;resize:none}
+label,summary{cursor:default}
+a,button{cursor:pointer}
+em,h1,h2,h3,h4,h5,h6{font-weight:400}
+a,a:active,a:hover,a:link,a:visited,del,ins{text-decoration:none}
+body,button,input,legend,select,textarea{font:12px/1.14 arial,\5b8b\4f53;color:#333;outline:0;margin-bottom: 0;}
+body{background:#fff}
+a,a:hover{color:#333}
+body{font-family:"Microsoft YaHei";font-size:.8rem;background:0 0;max-width:640px;margin:0 auto}
+input,button,select,label{font-family:"Microsoft YaHei";}
+
+/*通用样式*/
+body{
+	background-color: #fff;
+}
+
+.mui-plus.mui-android header.mui-bar{
+	display: none;
+}
+.mui-plus.mui-android .mui-bar-nav~.mui-content{
+	padding: 0;
+}
+.hm-description{
+	margin: .5em 0;
+}
+
+.hm-description>li {
+	font-size: 14px;
+	color: #8f8f94;
+}
